@@ -1,3 +1,3 @@
 # ASNA
 
-links: https://github.com/paulpark6/ASNA
+links: https://www.kaggle.com/competitions/ASNA-hackathon/data
